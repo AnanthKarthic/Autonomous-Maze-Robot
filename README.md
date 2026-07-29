@@ -83,23 +83,6 @@ The robot performs a corrective left turn and resumes forward movement.
 
 ---
 
-## Project Structure
-Autonomous-Maze-Robot/
-│
-├── src/
-│   └── autonomous_maze_robot.ino
-│
-├── docs/
-│   ├── Design_Document.pdf
-│   └── Presentation.pdf
-│
-├── images/
-│
-└── videos/
-
-
----
-
 ## Engineering Challenges
 
 Throughout development, the robot required debugging across both hardware and software systems.
