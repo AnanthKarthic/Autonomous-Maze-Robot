@@ -120,8 +120,4 @@ Additional project documentation can be found in the `docs/` folder, including t
 
 - Ananth Karthic
 
----
 
-## License
-
-This project is licensed under the MIT License.
